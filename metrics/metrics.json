@@ -1,0 +1,52 @@
+[
+  {
+    "timestamp": "2025-11-03T20:59:39.201085",
+    "tokens_prompt": 829,
+    "tokens_completion": 121,
+    "total_tokens": 950,
+    "latency_ms": 3910,
+    "estimated_cost": 0.001486,
+    "model": "openai/gpt-3.5-turbo",
+    "question_preview": "What is machine learning?"
+  },
+  {
+    "timestamp": "2025-11-03T21:13:04.715623",
+    "tokens_prompt": 829,
+    "tokens_completion": 118,
+    "total_tokens": 947,
+    "latency_ms": 3390,
+    "estimated_cost": 0.001479,
+    "model": "openai/gpt-3.5-turbo",
+    "question_preview": "What is artificial intelligence?"
+  },
+  {
+    "timestamp": "2025-11-03T21:13:12.391029",
+    "tokens_prompt": 832,
+    "tokens_completion": 252,
+    "total_tokens": 1084,
+    "latency_ms": 7669,
+    "estimated_cost": 0.001752,
+    "model": "openai/gpt-3.5-turbo",
+    "question_preview": "How do I bake chocolate chip cookies?"
+  },
+  {
+    "timestamp": "2025-11-03T21:13:15.974851",
+    "tokens_prompt": 834,
+    "tokens_completion": 154,
+    "total_tokens": 988,
+    "latency_ms": 3578,
+    "estimated_cost": 0.001559,
+    "model": "openai/gpt-3.5-turbo",
+    "question_preview": "Explain quantum computing to a 10-year-old"
+  },
+  {
+    "timestamp": "2025-11-03T21:13:20.072475",
+    "tokens_prompt": 829,
+    "tokens_completion": 124,
+    "total_tokens": 953,
+    "latency_ms": 3202,
+    "estimated_cost": 0.001491,
+    "model": "openai/gpt-3.5-turbo",
+    "question_preview": "What is machine learning?"
+  }
+]

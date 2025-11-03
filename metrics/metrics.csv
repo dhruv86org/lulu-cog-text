@@ -1,0 +1,6 @@
+timestamp,tokens_prompt,tokens_completion,total_tokens,latency_ms,estimated_cost,model,question_preview
+2025-11-03T20:59:39.201085,829,121,950,3910,0.001486,openai/gpt-3.5-turbo,What is machine learning?
+2025-11-03T21:13:04.715623,829,118,947,3390,0.001479,openai/gpt-3.5-turbo,What is artificial intelligence?
+2025-11-03T21:13:12.391029,832,252,1084,7669,0.001752,openai/gpt-3.5-turbo,How do I bake chocolate chip cookies?
+2025-11-03T21:13:15.974851,834,154,988,3578,0.001559,openai/gpt-3.5-turbo,Explain quantum computing to a 10-year-old
+2025-11-03T21:13:20.072475,829,124,953,3202,0.001491,openai/gpt-3.5-turbo,What is machine learning?
